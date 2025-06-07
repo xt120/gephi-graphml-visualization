@@ -1,5 +1,3 @@
-Archivo .graphml de red social creado únicamente con fines prácticos. Este repositorio sirve para experimentar con visualización en Gephi: layouts, modularidad y estilos. No se incluye análisis de datos.
-
 # Visualización de grafo en Gephi (.graphml)
 
 Este repositorio contiene un archivo de red social en formato `.graphml`, listo para ser cargado en Gephi y visualizado con herramientas básicas.
