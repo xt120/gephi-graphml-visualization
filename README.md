@@ -1,4 +1,4 @@
-Grafo de red social en formato .graphml para practicar visualización en Gephi. Incluye pasos para aplicar layout, modularidad y vista previa con estilo.
+Archivo .graphml de red social creado únicamente con fines prácticos. Este repositorio sirve para experimentar con visualización en Gephi: layouts, modularidad y estilos. No se incluye análisis de datos.
 
 # Visualización de grafo en Gephi (.graphml)
 
@@ -19,9 +19,8 @@ Este repositorio contiene un archivo de red social en formato `.graphml`, listo 
 
 ## 🎯 Resultado
 
-Una red clara, con nodos distribuidos espacialmente y coloreados según su comunidad detectada. Ideal para visualización rápida sin análisis avanzado.
+Una red clara, con nodos distribuidos espacialmente y coloreados según su comunidad detectada.
 
-## 💡 Requisitos
+## ✅ Objetivo
 
-- Gephi 0.9.7 o superior
-
+Este archivo está pensado **solo para practicar visualización en Gephi**.
